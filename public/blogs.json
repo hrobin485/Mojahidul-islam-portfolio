@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.pinimg.com/736x/c0/30/d7/c030d7f78811cd15e0971673102af9bd.jpg",
+    "player_name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "batsman_type": "Right-Hand-Bat",
+    "bowler_type": "Right-Arm-Medium",
+    "rating": "9.9/10",
+    "price": "$2500000",
+    "button": "Choose Player"
+  },
+  {
+    "id": 2,
+    "cover": "https://i.pinimg.com/474x/a1/e5/ab/a1e5ab820befe388015c0f5125ac6878.jpg",
+    "man_logo": "https://example.com/icons/man_logo.png",
+    "player_name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "batsman_type": "Right-Hand-Bat",
+    "bowler_type": "Right-Arm-Offbreak",
+    "rating": "9.8/10",
+    "price": "$2200000",
+    "button": "Choose Player"
+  },
+  {
+    "id": 3,
+    "cover": "https://i.pinimg.com/474x/48/9c/fa/489cfa19a239e416cd86c147e5f2da1a.jpg",
+    "man_logo": "https://example.com/icons/man_logo.png",
+    "player_name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "batsman_type": "Right-Hand-Bat",
+    "bowler_type": "Right-Arm-Legbreak",
+    "rating": "9.7/10",
+    "price": "$2300000",
+    "button": "Choose Player"
+  },
+  {
+    "id": 4,
+    "cover": "https://i.pinimg.com/474x/73/4e/92/734e929e5c7451dc6d4c13de5210848a.jpg",
+    "man_logo": "https://example.com/icons/man_logo.png",
+    "player_name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "batsman_type": "Left-Hand-Bat",
+    "bowler_type": "Right-Arm Fast-Medium",
+    "rating": "9.8/10",
+    "price": "$2400000",
+    "button": "Choose Player"
+  },
+  {
+    "id": 5,
+    "cover": "https://i.pinimg.com/474x/da/39/1c/da391c124b8124fc08f2596be5d75c69.jpg",
+    "man_logo": "https://example.com/icons/man_logo.png",
+    "player_name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "batsman_type": "Right-Hand-Bat",
+    "bowler_type": "Right-Arm-Offbreak",
+    "rating": "9.4/10",
+    "price": "$2600000",
+    "button": "Choose Player"
+  },
+  {
+    "id": 6,
+    "cover": "https://i.pinimg.com/474x/21/c9/0e/21c90e382ca349c2c190dfbae1ba4af6.jpg",
+    "man_logo": "https://example.com/icons/man_logo.png",
+    "player_name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "batsman_type": "Right-Hand-Bat",
+    "bowler_type": "Right-Arm-Fast",
+    "rating": "9.5/10",
+    "price": "$2000000",
+    "button": "Choose Player"
+  }
+]
