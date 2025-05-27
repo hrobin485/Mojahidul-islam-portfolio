@@ -389,7 +389,7 @@ function App() {
                 <div>
                   <h3 className="text-xl font-semibold">Complete Web Development</h3>
                   <p className="text-sm text-gray-600">
-                    Programming Hero — <span className="italic">June,2024-January,2025</span>
+                    Programming Hero — <span className="italic">2024</span>
                   </p>
                 </div>
               </div>

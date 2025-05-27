@@ -99,7 +99,7 @@ function App() {
           {/* Buttons */}
           <div className="mt-8 flex flex-col sm:flex-row items-center gap-4 justify-center md:justify-start">
             <a
-              href="#projects"
+              href="#contact"
               className="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold shadow-md hover:bg-blue-100 transition"
             >
               Get in Touch
@@ -389,7 +389,7 @@ function App() {
                 <div>
                   <h3 className="text-xl font-semibold">Complete Web Development</h3>
                   <p className="text-sm text-gray-600">
-                    Programming Hero — <span className="italic">June,2024-January,2025</span>
+                    Programming Hero — <span className="italic">2024</span>
                   </p>
                 </div>
               </div>

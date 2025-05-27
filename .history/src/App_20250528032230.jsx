@@ -99,7 +99,7 @@ function App() {
           {/* Buttons */}
           <div className="mt-8 flex flex-col sm:flex-row items-center gap-4 justify-center md:justify-start">
             <a
-              href="#projects"
+              href="#contact"
               className="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold shadow-md hover:bg-blue-100 transition"
             >
               Get in Touch
@@ -211,7 +211,7 @@ function App() {
 
       <section id="projects" className="py-20 bg-slate-300" data-aos="fade-up">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-4xl font-extrabold mb-12 ">My Projects</h2>
+          <h2 className="text-4xl font-extrabold mb-12 text-black ">My Projects</h2>
 
           <div className="space-y-12">
             {/* Project: StudyHive */}
@@ -389,7 +389,7 @@ function App() {
                 <div>
                   <h3 className="text-xl font-semibold">Complete Web Development</h3>
                   <p className="text-sm text-gray-600">
-                    Programming Hero — <span className="italic">June,2024-January,2025</span>
+                    Programming Hero — <span className="italic">2024</span>
                   </p>
                 </div>
               </div>
