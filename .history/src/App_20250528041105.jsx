@@ -105,7 +105,7 @@ function App() {
               Get in Touch
             </a>
             <a
-              href="https://drive.google.com/file/d/1q5fyy53TbGkah6flflSpC3uAZwdTz_Zm/view?usp=drive_link"
+              href="/resume.pdf"
               download
               className="bg-blue-600 text-white px-8 py-3 rounded-full font-semibold shadow-md hover:bg-blue-700 transition"
             >
