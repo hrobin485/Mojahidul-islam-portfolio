@@ -5,8 +5,8 @@ import { Mail, Github, Linkedin } from "lucide-react";
 import mojahidul from "./image/mojahidul.jpg";
 import CollegeLogo from "./image/CollegeLogo.png";
 import plogo from "./image/plogo.jpg";
-import StudyHive from "./image/StudyHivePNG.png";
-import CrowdFunding from "./image/CrowdFunding.png";
+import StudyHive from "./image/StudyHivePNG.PNG";
+import CrowdFunding from "./image/CrowdFunding.PNG";
 import {
   FaReact,
   FaNodeJs,

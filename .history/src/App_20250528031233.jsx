@@ -5,8 +5,8 @@ import { Mail, Github, Linkedin } from "lucide-react";
 import mojahidul from "./image/mojahidul.jpg";
 import CollegeLogo from "./image/CollegeLogo.png";
 import plogo from "./image/plogo.jpg";
-import StudyHive from "./image/StudyHivePNG.png";
-import CrowdFunding from "./image/CrowdFunding.png";
+// import StudyHive from "./image/StudyHivePNG.png";
+// import CrowdFunding from "./image/CrowdFunding.png";
 import {
   FaReact,
   FaNodeJs,
@@ -274,7 +274,7 @@ function App() {
               {/* Right Side: Web Preview Image */}
               <div className="flex-1 p-7">
                 <img
-                  src={StudyHive}
+                  // src={StudyHive}
                   alt="StudyHive Preview"
                   className="w-full h-full rounded-l-none rounded-r-2xl md:rounded-l-2xl md:rounded-r-none shadow-md transition-transform transform group-hover:scale-105"
                 />
@@ -341,7 +341,7 @@ function App() {
               {/* Right Side: Web Preview Image */}
               <div className="flex-1 p-7">
                 <img
-                  src={CrowdFunding}
+                  // src={CrowdFunding}
                   alt="CrowdFunding Preview"
                   className="w-full h-full  rounded-l-none rounded-r-2xl md:rounded-l-2xl md:rounded-r-none shadow-md transition-transform transform group-hover:scale-105"
                 />

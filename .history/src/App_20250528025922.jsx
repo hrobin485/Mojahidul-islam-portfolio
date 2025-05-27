@@ -2,11 +2,7 @@ import React, { useEffect, useState } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { Mail, Github, Linkedin } from "lucide-react";
-import mojahidul from "./image/mojahidul.jpg";
-import CollegeLogo from "./image/CollegeLogo.png";
-import plogo from "./image/plogo.jpg";
-import StudyHive from "./image/StudyHivePNG.png";
-import CrowdFunding from "./image/CrowdFunding.png";
+import {mojahidul,collegelogo,plogo,studyHive,crowdfunding} from "../src/image";
 import {
   FaReact,
   FaNodeJs,
@@ -16,6 +12,8 @@ import {
   FaGithub,
   FaStripe,
   FaLinkedinIn,
+  FaGraduationCap,
+  FaLaptopCode,
   FaExternalLinkAlt
 } from 'react-icons/fa';
 
@@ -274,7 +272,7 @@ function App() {
               {/* Right Side: Web Preview Image */}
               <div className="flex-1 p-7">
                 <img
-                  src={StudyHive}
+                  src="/src/image/StudyHivePNG.PNG"
                   alt="StudyHive Preview"
                   className="w-full h-full rounded-l-none rounded-r-2xl md:rounded-l-2xl md:rounded-r-none shadow-md transition-transform transform group-hover:scale-105"
                 />
@@ -341,7 +339,7 @@ function App() {
               {/* Right Side: Web Preview Image */}
               <div className="flex-1 p-7">
                 <img
-                  src={CrowdFunding}
+                  src="/src/image/CrowdFunding.PNG"
                   alt="CrowdFunding Preview"
                   className="w-full h-full  rounded-l-none rounded-r-2xl md:rounded-l-2xl md:rounded-r-none shadow-md transition-transform transform group-hover:scale-105"
                 />
@@ -362,7 +360,7 @@ function App() {
             <div className="bg-gray-100 rounded-lg p-6 shadow hover:bg-blue-50 transition">
               <div className="flex items-center gap-4 mb-4">
                 <img
-                  src={CollegeLogo} 
+                  src="/src/image/CollegeLogo.png" 
                   alt="Rajshahi College Logo"
                   className="w-12 h-12 object-contain"
                 />
@@ -382,7 +380,7 @@ function App() {
             <div className="bg-gray-100 rounded-lg p-6 shadow hover:bg-blue-50 transition">
               <div className="flex items-center gap-4 mb-4 ">
                 <img
-                  src={plogo}
+                  src="/src/image/plogo.jpg" 
                   alt="Programming Hero Logo"
                   className="w-12 h-12 object-contain "
                 />
